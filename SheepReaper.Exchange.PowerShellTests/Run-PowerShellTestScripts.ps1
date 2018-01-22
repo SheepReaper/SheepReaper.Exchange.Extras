@@ -1,0 +1,1 @@
+powershell.exe -noprofile -file .\Scripts\Test-ModuleLoading.ps1
